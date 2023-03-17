@@ -1,9 +1,9 @@
 # coin-market-backend-django
 
-coin-market-backend-django![Untitled Diagram drawio](https://user-images.githubusercontent.com/26831864/225870583-7dde1fcc-5599-47d9-9eb8-768172ac6020.png)
+![Untitled Diagram drawio](https://user-images.githubusercontent.com/26831864/225870583-7dde1fcc-5599-47d9-9eb8-768172ac6020.png)
 
 
-
+coin-market-backend-django
 
 
 ### Backend Job the will fetch the coinmarketcap records in every 5sec.
